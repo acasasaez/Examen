@@ -2,7 +2,7 @@ print("Minion Game")
 palabra = input("introducir cadena de caracteres: ")
 kevin = []
 manolo=[]
-def p():
+def p ():
     for i in palabra:
         
         if i == "a" or i == "e" or i == "i" or i == "o" or i == "u":
