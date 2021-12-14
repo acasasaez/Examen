@@ -1,6 +1,8 @@
 # Examen
 Para el examen de programación hemos tendo que realizar dos tareas:
 
+Para poder entregarlas hemos tenido que crear un repositorio, la dirección del mío es la siguiente: https://github.com/acasasaez/Examen.git
+
 La primera, bajo eltítulo de "MINION GAME" deberíaa llevar a cabo las siguientes acciones:
 
 Ambos jugadores reciben la misma cadena de caracteres
