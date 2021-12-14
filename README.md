@@ -15,7 +15,7 @@ Un jugador obtiene un +1punto por cada aparición de la subcadena en la cadena.
 Mi código para este ejercicio sería el siguiente;
 
 
-```print("Minion Game")
+```(print("Minion Game")
 palabra = input("introducir cadena de caracteres: ")
 kevin = []
 manolo=[]
@@ -36,4 +36,6 @@ def p():
     if len(kevin) <len(manolo):
         print("Manolo ha ganado")
     if len(kevin) ==len(manolo):
-        print("Draw")
+        print("Draw"))
+        
+   hola
