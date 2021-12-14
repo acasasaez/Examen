@@ -19,6 +19,6 @@ def p():
     if len(kevin) <len(manolo):
         print("Manolo ha ganado")
     if len(kevin) ==len(manolo):
-        print("Empate")
+        print("Draw")
     
 p()
