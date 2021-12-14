@@ -37,4 +37,16 @@ for i in range (n):
             if tablero [a][b] == " ":
              tablero[a][b] = "f"
 print ("El jugador que empieza toma la f")
+jugador = random.randint(1,2)
+print("EMPIEZA EL JUGADOR: ", jugador)
+def MOVIMIENTO ():
+    filaficha = int(input("Elige la fila de tu ficha"))
+    columficha= int (input("Elige la columna de tu ficha:"))
+    if tablero [filaficha + 1] [columficha] ==" ":
+        tablero [filaficha] [columficha] = tablero [filaficha + 1] [columficha]
+    elif tablero [filaficha - 1] [columficha] ==" ":
+        tablero [filaficha] [columficha] = tablero [filaficha - 1] [columficha]
+    else:
+        print(" La ficha no se puede mover")
+    
 print (tablero)
