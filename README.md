@@ -42,7 +42,7 @@ def p():
     if len(kevin) <len(manolo):
         print("Manolo ha ganado")
     if len(kevin) ==len(manolo):
-        print("Draw")
+        print("Draw")```
         
   ```print("AJEDREZ EXTRAÑO")
 import math
