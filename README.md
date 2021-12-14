@@ -12,7 +12,14 @@ El juego termina cuando ambos jugadores han creado todas las subcadenas posibles
 Puntuación
 Un jugador obtiene un +1punto por cada aparición de la subcadena en la cadena.
 
-Mi código para este ejercicio sería el siguiente;
+
+La Segunda tarea consiste en escribir un ajedrez especial, que funciona de la siguiente manera:
+
+Primero se debe definir un tablero de ajedrez de n filas y n columnas y n fichas de ajedrez. El movimiento de estas fichas solo puede ser vertical y sobre su propica columna. El jugador que se quede sin poder realizar ningún movimiento pierde.
+
+
+
+Mi código para el ejercicio 1;
 
 ```(print("Minion Game")
 palabra = input("introducir cadena de caracteres: ")
