@@ -19,9 +19,10 @@ Primero se debe definir un tablero de ajedrez de n filas y n columnas y n fichas
 
 
 
-Mi código para el ejercicio 1;
+Mis códigos son;
 
-```(print("Minion Game")
+```EJERCICIO 1
+(print("Minion Game")
 palabra = input("introducir cadena de caracteres: ")
 kevin = []
 manolo=[]
@@ -43,8 +44,8 @@ def p():
         print("Manolo ha ganado")
     if len(kevin) ==len(manolo):
         print("Draw")```
-        
-  ```print("AJEDREZ EXTRAÑO")
+EJERCICIO 2:    
+print("AJEDREZ EXTRAÑO")
 import math
 import random 
 import sys
